@@ -14,8 +14,8 @@ don't have 50% representation of women in tech and leadership.
 
 ## Biases
 
-Left|Right
-----|-----
+Left | Right
+-----|------
 Compassion for weak | Respect for the strong/authority
 Disparities are due to injustices | Disparities are natural and just 
 Humans are inherently cooperative | Humans are inherently competitive
