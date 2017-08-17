@@ -14,32 +14,17 @@ don't have 50% representation of women in tech and leadership.
 
 ## Biases
 
-### Left
-
-* Compassion for weak
-* Disparities are due to injustices
-* Humans are inherently cooperative
-* Change is good (unstable)
-* Open
-* Idealist
-// problems
-* constant change
-* over diversify
-* overly trust employees and competitors
-
-### Right
-
-* Respect for the strong/authority
-* Disparities are natural and just
-* Humans are inherently competitive
-* Change is dangerous (stable)
-* Closed
-* Pragmatic
-// problems
-* slow to react
-* overly hierarchical
-* untrusting of others
-
+Left|Right
+----|-----
+Compassion for weak | Respect for the strong/authority
+Disparities are due to injustices | Disparities are natural and just 
+Humans are inherently cooperative | Humans are inherently competitive
+Change is good (unstable) | Change is dangerous (stable)
+Open | Closed
+Idealist | Pragmatic
+constant change | slow to react
+over diversify | overly hierarchical
+overly trust employees and competitors | untrusting of others
 
 * Netiher is 100% correct
 * Both are necessary for functioning society
